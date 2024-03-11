@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "FM 3300/3310 (FM300 Communicator)"
+    },
+    {
+      "id": 2,
+      "name": "FM 3507i/3517i"
+    },
+    {
+      "id": 3,
+      "name": "FM 3607i/3617i"
+    },
+    {
+      "id": 4,
+      "name": "MiX2310i"
+    },
+    {
+      "id": 5,
+      "name": "MiX4000"
+    }
+  ]
+}

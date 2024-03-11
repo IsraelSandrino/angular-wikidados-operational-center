@@ -1,0 +1,13 @@
+<div>
+  <div>
+    <app-page-title [pageName]="'Scripts'"></app-page-title>
+  </div>
+
+  <div>
+    <app-search-bar [placeholder]="'Digite um script'"></app-search-bar>
+
+    <div class="table-content">
+      <app-table [data]="scripts" [columns]="columns" [columnMapping]="columnMapping"></app-table>
+    </div>
+  </div>
+</div>

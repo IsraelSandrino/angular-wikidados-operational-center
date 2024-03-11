@@ -1,0 +1,21 @@
+<!-- table.component.html -->
+<nz-table
+  [nzData]="data"
+  nzShowPagination="false"
+  nzBordered="true"
+  [nzScroll]="{ y: '552px' }"
+  >
+  <thead>
+    <tr>
+      <th class="teste" [nzSortFn]="column.localeCompare" *ngFor="let column of columns">
+        {{ column }}
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of data">
+      <td *ngFor="let column of columns">{{ item[columnMapping[column]] }}</td>
+      <!-- Adicione mais colunas conforme necessário -->
+    </tr>
+  </tbody>
+</nz-table>

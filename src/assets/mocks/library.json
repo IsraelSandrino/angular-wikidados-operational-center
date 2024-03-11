@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "vehicle_brand": "Ford",
+      "vehicle_model": "CARGO 1723",
+      "vehicle_model_year": 2013,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "SEMI-PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.7.11",
+      "script": "CAN: J1939 FEF2",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 2,
+      "vehicle_brand": "Ford",
+      "vehicle_model": "CARGO 3031 8X2",
+      "vehicle_model_year": 2019,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "SEMI-PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.13.11",
+      "script": "Script.CAN.J1939.250KBPS.v1.23.0.3_MG",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 3,
+      "vehicle_brand": "Ford",
+      "vehicle_model": "CARGO 3031 8X2",
+      "vehicle_model_year": 2019,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "SEMI-PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.7.11",
+      "script": "CAN: J1939 FEF2",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 4,
+      "vehicle_brand": "Ford",
+      "vehicle_model": "CARGO 3031 8X2 L",
+      "vehicle_model_year": 2019,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "SEMI-PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.19.11",
+      "script": "Script.CAN.J1939.250KBPS.v1.23.0.3_MG",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 5,
+      "vehicle_brand": "Ford",
+      "vehicle_model": "CARGO 3031 8X2 L",
+      "vehicle_model_year": 2019,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "SEMI-PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.7.11",
+      "script": "CAN: J1939 FEF2",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 6,
+      "vehicle_brand": "Ford",
+      "vehicle_model": "CARGO 3031 8X2 L",
+      "vehicle_model_year": 2019,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "SEMI-PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.7.11",
+      "script": "Script.CAN.J1939.250KBPS.v1.23.0.3_MG",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 7,
+      "vehicle_brand": "Ford",
+      "vehicle_model": "CARGO 3031 8X2 L",
+      "vehicle_model_year": 2019,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "SEMI-PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.13.11",
+      "script": "Script.CAN.J1939.250KBPS.v1.23.0.3_MG",
+      "script_firmware": "15.4.8.23"
+    },
+    {
+      "id": 8,
+      "vehicle_brand": "Ford",
+      "vehicle_model": "CARGO 816 S",
+      "vehicle_model_year": 2013,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "LEVE",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.19.11",
+      "script": "CAN: J1939 FEF2",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 9,
+      "vehicle_brand": "Chevrolet",
+      "vehicle_model": "S10 LS DD4",
+      "vehicle_model_year": 2020,
+      "vehicle_type": "Comercial Leve",
+      "vehicle_category": "PICK-UP GRANDE",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.19.11",
+      "script": "CAN: OBDII Turbo Diesel WiredIgn Rev 1.3.0.3",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 10,
+      "vehicle_brand": "DAF",
+      "vehicle_model": "XF105 FTS 460A",
+      "vehicle_model_year": 2020,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.7.11",
+      "script": "[Wiki] CAN: J1939 FMS FEF2 v1.4.0.4",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 11,
+      "vehicle_brand": "DAF",
+      "vehicle_model": "XF105 FTT 510A",
+      "vehicle_model_year": 2018,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.19.11",
+      "script": "[Wiki] CAN: J1939 FMS FEF2 v1.4.0.4",
+      "script_firmware": "15.6.1.23"
+    },
+    {
+      "id": 12,
+      "vehicle_brand": "DAF",
+      "vehicle_model": "XF105 FTS 460A",
+      "vehicle_model_year": 2020,
+      "vehicle_type": "Caminhão",
+      "vehicle_category": "PESADO",
+      "device": "FM 3607i/3617i",
+      "device_firmware": "19.3.19.11",
+      "script": "[Wiki] CAN: J1939 FMS FEF2 v1.4.0.4",
+      "script_firmware": "15.6.1.23"
+    }
+  ]
+}

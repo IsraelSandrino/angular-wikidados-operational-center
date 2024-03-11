@@ -1,0 +1,8 @@
+<div class="search-bar">
+  <nz-input-group nzSearch [nzAddOnAfter]="suffixIconButton">
+    <input type="text" nz-input placeholder="{{ placeholder }}" />
+  </nz-input-group>
+  <ng-template #suffixIconButton>
+    <button nz-button nzType="primary" nzSearch><span nz-icon nzType="search"></span></button>
+  </ng-template>
+</div>

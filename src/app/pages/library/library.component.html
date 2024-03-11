@@ -1,0 +1,27 @@
+<div class="library-content">
+  <div>
+    <app-page-title [pageName]="'Biblioteca'"></app-page-title>
+  </div>
+
+  <div class="search-options">
+    <div id="search-bar">
+      <app-search-bar [placeholder]="'Digite uma marca, modelo, script ... para pesquisar'"></app-search-bar>
+    </div>
+
+    <div id="advanced-search">
+      <span>Pesquisa Avançada</span>
+      <nz-switch (click)="toggleFormulario()"></nz-switch>
+    </div>
+  </div>
+
+  <div class="library-main-content">
+    <div nz-grid class="teste-content">
+      <div nz-col id="advanced-form" *ngIf="switchValue">
+        <app-advanced-search></app-advanced-search>
+      </div>
+
+      <div nz-col class="table-area">
+        <app-table [data]="library" [columns]="columns" [columnMapping]="columnMapping"></app-table>
+      </div>
+    </div>
+</div>

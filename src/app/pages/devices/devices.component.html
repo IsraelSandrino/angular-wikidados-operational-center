@@ -1,0 +1,13 @@
+<div>
+  <div>
+    <app-page-title [pageName]="'Dispositivos móveis'"></app-page-title>
+  </div>
+
+  <div>
+    <app-search-bar [placeholder]="'Digite um dispositivo móvel'"></app-search-bar>
+
+    <div class="table-content">
+      <app-table [data]="devices" [columns]="columns" [columnMapping]="columnMapping"></app-table>
+    </div>
+  </div>
+</div>
